@@ -4,7 +4,7 @@
 In this workshop, we will explore how to build powerful, AI-integrated applications using Power Apps and Azure Custom Vision. Azure Custom Vision is an image recognition service that allows you to train, deploy, and enhance your own image classification models for practical use in apps.
 
 
-1. Download the repository.
+1. Download the dataset here - https://www.kaggle.com/datasets/mostafaabla/garbage-classification
 2. extract zip file
 3. follow step by step to create Project 
 
